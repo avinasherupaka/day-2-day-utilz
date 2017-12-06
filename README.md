@@ -27,7 +27,7 @@
 * Fork and clone the project:
 
 ```
-git clone https://github.com/avinasherupaka/day-to-day-utils.git
+git clone https://github.com/avinasherupaka/day-to-day-utilz.git
 ```
 
 * Then install the dependencies:
