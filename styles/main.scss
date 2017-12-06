@@ -1,0 +1,130 @@
+.greeting {
+  padding: 20px;
+}
+body{
+  background-color:  rgba(176,196,222, 0.2);
+}
+
+.menu-item {
+  font-size: x-large;
+  width: auto;
+  text-align: left;
+}
+
+#outer-container {
+  margin-top: -15px;
+}
+
+#page-wrap {
+  text-align: center;
+  padding: 40px 75px;
+  span {
+    position: relative;
+    margin: 0 auto;
+  }
+}
+
+.vaultmain {
+  display: inline-block;
+  width: 600px !important;
+}
+
+.vault-keys {
+  color: blue;
+  cursor: pointer;
+}
+
+.output {
+  display: block;
+  border-radius: 5px;
+  background-color: white;
+  border:  solid 1px gray;
+  max-width: 500px;
+  margin: 36px auto 0;
+  padding: 8px;
+  opacity: 0;
+  p {
+    word-break: break-all;
+  }
+}
+
+.prettify {
+  text-align: left;
+}
+.error {
+  text-align: left;
+  color: red;
+}
+
+.my-container {
+  display: block;
+  margin: 60px auto 20px;
+  background-color: whitesmoke;
+  box-shadow: 0 0 3px darkgray;
+  textarea{
+    width: 100%;
+  }
+  text-align: center;
+  color: #5d5d5d;
+  padding: 40px 75px;
+  span {
+    position: relative;
+    margin: 0 auto;
+  }
+}
+table {
+  border-spacing: 10px;
+}
+
+td {
+  padding: 5px 5px;
+}
+th {
+  padding: 5px 5px;
+  font-size: large;
+  color: #5d5d5d;
+  font-variant: all-petite-caps;
+}
+
+.jsonOdd {
+  background: #eee;
+}
+
+
+.header{
+  top: -12px;
+  position: relative;
+  text-align: center;
+  font-size: 28px;
+  background-color: white;
+  color: rgb(100, 100, 100);
+  margin: 0;
+  padding: 16px;
+  i.header-icon {
+    display: inline-block;
+    position: relative;
+    border-right: solid 3px black;
+    border-bottom: solid 3px black;
+    border-left: solid 1px rgb(93, 93, 93);
+    border-top: solid 1px rgb(93, 93, 93);
+    border-radius: 5px;
+    padding: 2px;
+    margin: 8px;
+  }
+}
+
+.btn-primary{
+  margin-bottom: 16px;
+}
+
+.textarea {
+  width: 360px;
+  outline: none;
+  min-height: 20px;
+  padding: 0;
+  box-shadow: none;
+  display: block;
+  border: 2px solid black;
+  overflow: hidden;  // Removes scrollbar
+  transition: height 0.2s ease;
+}

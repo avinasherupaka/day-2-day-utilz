@@ -1,0 +1,6 @@
+[
+  { "carModel" : "Aston Martin DB11",      "price" : "250000",  "color" : "blue", "mileage" : "7200" },
+  { "carModel" : "Bentley  Bentayga",       "price" : "201000",  "color" : "red" },
+  { "carModel" : "Ferrari 458 Italia",  "price" : "269000",  "color" : "yellow" },
+  { "carModel" : "Porsche718 Boxster ",   "price" : "74000",  "color" : "green" }
+]
