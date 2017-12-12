@@ -1,5 +1,5 @@
 <p align="center">
-    <h3 align="center">Compilation of some day to day utils we use<br></h3>
+    <h3 align="center">day-2-day-utils - Compilation of some day to day utils we use<br></h3>
 </p>
 
 ### What I used
@@ -110,6 +110,3 @@ npm run lint
 ### Notes on importing css styles
 * styles having /src/ in their absolute path considered part of the application and exported as local css modules.
 * other styles considered global styles used by components and included in the css bundle directly.
-
-# day-2-day-utils
-# day-2-day-utilz
